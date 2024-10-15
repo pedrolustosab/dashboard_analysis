@@ -7,7 +7,7 @@ Dashboard Analyzer AI is a Python-based tool that automatically analyzes dashboa
 ## Features
 
 - Scans the current working directory for dashboard images (jpg or png)
-- Analyzes each dashboard image using AI
+- Analyze each dashboard image using AI
 - Generates detailed summaries including:
   - Buttons and clickable elements
   - Cards and containers
@@ -16,7 +16,6 @@ Dashboard Analyzer AI is a Python-based tool that automatically analyzes dashboa
   - Overall layout and structure
   - Inferred purpose of the dashboard
   - Key insights from the data
-  - Suggestions for UI/UX improvements
 - Saves all analyses in a single markdown file
 
 ## Requirements
