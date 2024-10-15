@@ -1,0 +1,10 @@
+.env
+__pycache__
+# Ignore cache directory
+cache/
+
+# Ignore exports directory
+exports/
+
+# Ignore log files
+*.log
